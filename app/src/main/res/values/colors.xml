@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colors">
+        <item>Black</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="stroke_widths">
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+    </string-array>
+</resources>
